@@ -12,7 +12,7 @@ body {
 
 a { text-decoration: underline; color: #215090; }
 a:hover { text-decoration: none; color: blue; }
-img { border: 0pt none; vertical-align: middle; }
+img { border: 0pt none; vertical-align: middle; width: 100%;}
 h2 { color: #444; }
 h3 { color: #666; font-size: 140%; }
 
@@ -49,4 +49,4 @@ h3 { color: #666; font-size: 140%; }
 	color: #666;
 }
 
-#footer a { color: #666; padding: 0 2px; }
+#footer a { color: #666; padding: 0 2px;}
