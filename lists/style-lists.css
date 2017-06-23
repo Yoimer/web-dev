@@ -61,8 +61,31 @@ h3 { color: #666; font-size: 140%; }
 	font-size: 20px;
 }
 
+ul#menu {
+    /*padding: 0;*/
+    padding: 0px 0px 0px 750px;
+}
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    background-color: black;
+    color: white;
+    /*padding: 10px 20px;*/
+    padding: 0px 30px 15px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a:hover {
+    background-color: orange;
+}
+
+
 #content {
-	padding: 30px 80px;
+	padding: 0px 0px;
 	text-align: center;
 	/*text-align: justify;*/
 }
