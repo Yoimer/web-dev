@@ -90,7 +90,7 @@ ul#menu li a:hover {
 	/*text-align: justify;*/
 }
 
-#un-list {
+/*#un-list {
 	color: red;
 	font-size: 20px;
 	text-align: justify;
@@ -105,11 +105,35 @@ ul#menu li a:hover {
 	color: black;
 	font-size: 25px;
 }
+*/
+
+.un-list{
+    width:800px;
+}
+.un-list-header{
+    margin:0;
+    /*pading:0;*/
+    padding: 100px 0 0 28px;
+}
+
+#expensive {
+    padding: 0px 0px 0px 0px;
+    color: red;
+
+}
+
+.un-list-header li{
+    float:left;
+    margin-bottom:150px;
+}
+.un-list-header li div{
+    width:200px;
+}
 
 #footer {
 	text-align: center;
 	border-top: 1px solid #ddd;
-	padding: 40px;
+	padding: 400px;
 	color: #666;
 }
 
